@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newnow/static/css/main.f92be8b3.css",
+    "main.js": "/newnow/static/js/main.0ae73240.js",
+    "static/js/787.28cb0dcd.chunk.js": "/newnow/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img.jpg": "/newnow/static/media/img.c6439de389a3ae592316.jpg",
+    "index.html": "/newnow/index.html",
+    "main.f92be8b3.css.map": "/newnow/static/css/main.f92be8b3.css.map",
+    "main.0ae73240.js.map": "/newnow/static/js/main.0ae73240.js.map",
+    "787.28cb0dcd.chunk.js.map": "/newnow/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92be8b3.css",
+    "static/js/main.0ae73240.js"
+  ]
+}
